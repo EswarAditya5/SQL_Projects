@@ -31,3 +31,4 @@ Database management is crucial for organizations and businesses for several reas
 | Inventory_Management_System | [Click Here](https://github.com/EswarAditya5/Inventory_Managment_System) |
 | Hospital_Management_System | [Click Here](https://github.com/EswarAditya5/Hospital_DataBase_Management_System) |
 | Northwind_Management_system|[Click Here](https://github.com/EswarAditya5/Northwind_Management_system)|
+| Logistic_Company | [Click Here](https://github.com/EswarAditya5/Logistic_company_project) |
